@@ -54,7 +54,7 @@ class Playlist():
 
 
 vingadores = Filme("vingadores, guerra infinita", 2018, 140)
-strager_things = Serie("strager things", 2016, 4)
+strager_things = Serie("stragerr things", 2016, 4)
 breaking_bad = Serie("BREAKING BAD", 2013, 6)
 o_nome_da_rosa = Filme("O nome da rosa", 1998, 120)
 
